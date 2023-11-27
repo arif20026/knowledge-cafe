@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover_pic": "https://i.ibb.co/K0pWKCk/19330959.jpg",
+      "title": "The Enigmatic Adventure",
+      "author": "Alice Writer",
+      "author_img": "https://i.ibb.co/rwKqWkM/2935.jpg",
+      "posted_date": "2023-11-27",
+      "reading_time": 15,
+      "hash_tags": ["adventure", "mystery", "fiction"]
+    },
+    {
+      "id": 2,
+      "cover_pic": "https://i.ibb.co/K0pWKCk/19330959.jpg",
+      "title": "Beyond the Stars",
+      "author": "Bob Storyteller",
+      "author_img": "https://i.ibb.co/rwKqWkM/2935.jpg",
+      "posted_date": "2023-11-26",
+      "reading_time": 20,
+      "hash_tags": ["sci_fi", "exploration", "fantasy"]
+    },
+    {
+      "id": 3,
+      "cover_pic": "https://i.ibb.co/K0pWKCk/19330959.jpg",
+      "title": "Gourmet Delights",
+      "author": "Chef Cooksalot",
+      "author_img": "https://i.ibb.co/rwKqWkM/2935.jpg",
+      "posted_date": "2023-11-25",
+      "reading_time": 10,
+      "hash_tags": ["cooking", "recipes", "foodie"]
+    },
+    {
+      "id": 4,
+      "cover_pic": "https://i.ibb.co/K0pWKCk/19330959.jpg",
+      "title": "Code Chronicles",
+      "author": "Tech Guru",
+      "author_img": "https://i.ibb.co/rwKqWkM/2935.jpg",
+      "posted_date": "2023-11-24",
+      "reading_time": 25,
+      "hash_tags": ["coding", "programming", "tech"]
+    },
+    {
+      "id": 5,
+      "cover_pic": "https://i.ibb.co/K0pWKCk/19330959.jpg",
+      "title": "Nature's Symphony",
+      "author": "Eco Explorer",
+      "author_img": "https://i.ibb.co/rwKqWkM/2935.jpg",
+      "posted_date": "2023-11-23",
+      "reading_time": 18,
+      "hash_tags": ["nature", "environment", "outdoors"]
+    }
+  ]
+  
